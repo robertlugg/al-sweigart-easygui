@@ -6,9 +6,9 @@ setup(
     version=version,
     url='http://easygui.sourceforge.net/',
     description='EasyGUI is a module for very simple, very easy GUI programming in Python. EasyGUI is different from other GUI generators in that EasyGUI is NOT event-driven. Instead, all GUI interactions are invoked by simple function calls.',
-    author='Stephen Ferg',
+    author='Stephen Ferg and others',
     license='BSD',
-    keywords='gui windows graphical user interface',
+    keywords='python easy gui windows linux graphical user interface',
     packages=['easygui'],
     classifiers=[
         'Intended Audience :: Developers',
